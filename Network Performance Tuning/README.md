@@ -1,5 +1,7 @@
 # Network Performance Tuning
 
+First use this [Desuboptimation](https://github.com/MysticFoxDE/WINDOWS-OPTIMIZATIONS/blob/main/W10ANDW11-NETWORK-TCP-DESUBOPTIMIZATION.ps1) and then as follows or use the batch file linked at the bottom.
+
 The registry entries that may be added/changed by this “General Tuning” procedure are:
 
 Disable TCP selective acks option for better cpu utilization
