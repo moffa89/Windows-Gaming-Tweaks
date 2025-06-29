@@ -1,9 +1,9 @@
 # no FPS drops
 It´s just to make sure Steam will not drop any FPS from your Games.
 
-1. Download [Steam.reg](https://github.com/moffa89/Apex-Legends-Autoexec-2025/blob/main/Tweaks/Steam/Steam.reg).
-2. Open [Steam.reg](https://github.com/moffa89/Apex-Legends-Autoexec-2025/blob/main/Tweaks/Steam/Steam.reg) and apply with yes.
-3. If it doesn´t work rightclick and "open as Administrator".
+1. Download [Steam.reg](https://github.com/moffa89/Windows-Gaming-Tweaks/blob/main/Steam/Steam.reg)
+2. Open [Steam.reg](https://github.com/moffa89/Windows-Gaming-Tweaks/blob/main/Steam/Steam.reg) and apply with yes
+3. If it doesn´t work rightclick and "open as Administrator"
 4. Enjoy
 
 # Steam (Debloated Version)
