@@ -1,10 +1,10 @@
-# #1 Desuboptimization
+# #1 Backsuboptimization
 
-First use this [Desuboptimation](https://github.com/MysticFoxDE/WINDOWS-OPTIMIZATIONS/blob/main/W10ANDW11-NETWORK-TCP-DESUBOPTIMIZATION.ps1) and then as follows.
+First download and open the .ps1 file with Powershell/Terminal [Backsuboptimization](https://github.com/MysticFoxDE/WINDOWS-OPTIMIZATIONS/blob/main/W10ANDW11-NETWORK-TCP-BACKSUBOPTIMIZATION.ps1) from MysticFoxDE.
 
 # #2 Network Performance Tuning
 
-Second I made a .bat file for this [Network Performance Tuning](https://github.com/moffa89/Windows-Gaming-Tweaks/blob/main/Network%20Performance%20Tuning/Network%20Performance%20Tuning.bat)
+Second download and open the .bat file [Network Performance Tuning](https://github.com/moffa89/Windows-Gaming-Tweaks/blob/main/Network%20Performance%20Tuning/Network%20Performance%20Tuning.bat) or do it manually in regedit:
 
 The registry entries that may be added/changed by this “General Tuning” procedure are:
 
@@ -24,6 +24,6 @@ Under HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\AFD\Parameters
 
 # #3 Realtek Ethernet Settings
 
-Third open the .reg file [Realtek Ethernet Settings](https://github.com/moffa89/Windows-Gaming-Tweaks/blob/main/Network%20Performance%20Tuning/Realtek%20Ethernet%20Settings.reg) and click on yes for gaming settings.
+Third download & open the .reg file [Realtek Ethernet Settings](https://github.com/moffa89/Windows-Gaming-Tweaks/blob/main/Network%20Performance%20Tuning/Realtek%20Ethernet%20Settings.reg) and click on yes for gaming settings.
 
 # Now your ethernet is optimized for gaming ;-)
