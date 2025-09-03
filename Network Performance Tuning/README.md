@@ -24,6 +24,6 @@ Under HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\AFD\Parameters
 
 # #3 Realtek Ethernet Settings
 
-Third open the .reg file [Realtek Ethernet Settings](https://github.com/moffa89/Windows-Gaming-Tweaks/blob/main/Network%20Performance%20Tuning/Realtek%20Ethernet%20Settings.reg) and click on yes to deactivate GigabitLite, Green Ethernet and Wake-on-Lan settings.
+Third open the .reg file [Realtek Ethernet Settings](https://github.com/moffa89/Windows-Gaming-Tweaks/blob/main/Network%20Performance%20Tuning/Realtek%20Ethernet%20Settings.reg) and click on yes for gaming settings.
 
 # Now your ethernet is optimized for gaming ;-)
