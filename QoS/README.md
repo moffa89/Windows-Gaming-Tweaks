@@ -12,8 +12,7 @@
 
 6. ![6](https://github.com/moffa89/Windows-Gaming-Tweaks/blob/main/QoS/6.png)
 
-7. Make sure QoS packet sheduler is marked in Ethernet options.
-   
-![QoS](https://github.com/moffa89/Windows-Gaming-Tweaks/blob/main/QoS/QoS.png)
+7. ![QoS](https://github.com/moffa89/Windows-Gaming-Tweaks/blob/main/QoS/QoS.png)
+- Make sure QoS packet sheduler is marked in Ethernet options.
 
 # Enjoy lagfree gaming.
