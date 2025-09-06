@@ -15,4 +15,4 @@
 7. ![QoS](https://github.com/moffa89/Windows-Gaming-Tweaks/blob/main/QoS/QoS.png)
 - Make sure QoS packet sheduler is marked in Ethernet options.
 
-# Enjoy lagfree gaming.
+# Enjoy prioritized gaming.
