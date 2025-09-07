@@ -1,6 +1,6 @@
 # TCP Optimizer
 
-First download [TCP Optimizer](https://www.speedguide.net/files/TCPOptimizer.exe) open and load optimal settings apply changes and restart.
+First download [TCP Optimizer](https://www.speedguide.net/files/TCPOptimizer.exe) and [Gaming.spg](https://github.com/moffa89/Windows-Gaming-Tweaks/blob/main/Network%20Performance%20Tuning/Gaming.spg) then start TCP Optimizer and import Gaming.spg apply changes and restart.
 
 # Network Performance Tuning Script
 
