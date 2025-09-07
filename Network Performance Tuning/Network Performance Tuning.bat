@@ -1,0 +1,15 @@
+@echo off
+@echo Network Performance Tuning Script by moffa89
+@echo =============================================
+
+echo Looking for Admin rights
+net session >nul 2>&1 || (powershell start -verb runas '"%~0"' &exit /b)
+
+echo Optimize TCP Registry
+reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters" /v TcpAckFrequency /t reg_dword /d 1 /f
+reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters" /v TCPNoDelay /t reg_dword /d 1 /f
+reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters" /v TcpDelAckTicks /t reg_dword /d 0 /f
+reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters" /v DefaultTTL /t reg_dword /d 64 /f
+
+echo Optimize UDP Registry
+reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\AFD\Parameters" /v FastSendDatagramThreshold /t reg_dword /d 0 /f
