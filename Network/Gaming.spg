@@ -9,9 +9,9 @@ Checksum Offload=2
 EcnCapability=2
 Chimney=2
 Timestamps=2
-MaxSynRetransmissions=1
+MaxSynRetransmissions=3
 NonSackRttResiliency=2
-InitialRto(ms)=2000
+InitialRto(ms)=1000
 MinRto(ms)=300
 [SOFTWARE\Microsoft\Internet Explorer\MAIN\FeatureControl\FEATURE_MAXCONNECTIONSPER1_0SERVER]
 explorer.exe=10
