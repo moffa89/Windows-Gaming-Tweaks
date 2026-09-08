@@ -9,9 +9,9 @@ Checksum Offload=2
 EcnCapability=2
 Chimney=2
 Timestamps=2
-MaxSynRetransmissions=1
+MaxSynRetransmissions=3
 NonSackRttResiliency=2
-InitialRto(ms)=2000
+InitialRto(ms)=1000
 MinRto(ms)=300
 [SOFTWARE\Microsoft\Internet Explorer\MAIN\FeatureControl\FEATURE_MAXCONNECTIONSPER1_0SERVER]
 explorer.exe=10
@@ -49,7 +49,7 @@ TCPNoDelay=1
 TCPNoDelay_SEL=1
 [Ethernet]
 MTU=1492
-[SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces\{D9970EBF-1755-4AED-AA99-B4AA1D8C574F}]
+[SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces\{2A6A83E4-545D-4DA0-A71B-61C8D5EE8EC3}]
 TcpAckFrequency=1
 TcpAckFrequency_SEL=1
 TcpDelAckTicks=0
