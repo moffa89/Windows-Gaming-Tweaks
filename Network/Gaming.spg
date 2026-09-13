@@ -32,8 +32,8 @@ Do not use NLA_SEL=1
 [SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile]
 NetworkThrottlingIndex=-1
 NetworkThrottlingIndex_SEL=0
-SystemResponsiveness=0
-SystemResponsiveness_SEL=0
+SystemResponsiveness=10
+SystemResponsiveness_SEL=10
 [SYSTEM\CurrentControlSet\Services\LanmanServer\Parameters]
 Size=3
 Size_SEL=3
